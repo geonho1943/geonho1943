@@ -1,4 +1,12 @@
-### Hi there 👋
+<div align=center>
+
+## About Me <br>
+Hello<br>
+I'm a BackEnd Developer<br>
+  
+![geonho1943's GitHub stats](https://github-readme-stats.vercel.app/api?username=geonho1943&show_icons=true&theme=radical)
+[![geonho1943's Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=geonho1943)](https://solved.ac/geonho1943/)
+
 
 <!--
 **geonho1943/geonho1943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
