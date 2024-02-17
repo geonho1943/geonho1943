@@ -1,24 +1,12 @@
-<div align=center>
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=random&text=GeonHo%20Son&section=header&reversal=false&desc=Backend%20Developer&descSize=20&fontAlignY=50&fontAlign=50&descAlignY=65&animation=fadeIn&textBg=false)
 
 ## About Me <br>
-Hello<br>
-I'm a BackEnd Developer<br>
-  
-![geonho1943's GitHub stats](https://github-readme-stats.vercel.app/api?username=geonho1943&show_icons=true&theme=radical)<br>
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+
+![Oracle Cloud Infrastructure](https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=Oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
+
 [![geonho1943's Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=geonho1943)](https://solved.ac/geonho1943/)
-
-
-<!--
-**geonho1943/geonho1943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
