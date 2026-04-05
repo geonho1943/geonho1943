@@ -29,8 +29,6 @@
 
 ## Technologies
 
-### Backend
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />&nbsp;
@@ -41,18 +39,13 @@
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
-
-### Database
 
 <p align="center">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/H2-09476B?style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
-
-### Infra / DevOps / Environment
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />&nbsp;
@@ -61,14 +54,12 @@
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/WSL2-4D4D4D?style=flat-square&logo=linux&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Windows%2011-0078D4?style=flat-square&logo=windows11&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
 </p>
-
-### Security / Testing / Monitoring
 
 <p align="center">
   <img src="https://img.shields.io/badge/Burp%20Suite-F47C20?style=flat-square" />&nbsp;
@@ -99,12 +90,3 @@ Spring Boot, MariaDB, Thymeleaf 기반 웹 서비스 구현 및 보안 점검
 사용자 상호작용 중심의 웹 서비스 프로젝트
 
 ---
-
-## Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=geonho1943&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geonho1943&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
