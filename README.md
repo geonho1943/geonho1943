@@ -75,18 +75,17 @@
 
 ### RemoteDirectoryManager
 디렉토리 기반 원격 파일 관리 시스템  
-아직 각종 편의 기능을 고도화 중 입니다
+(아직 각종 편의 기능을 구현, 개선 중 입니다)
 
 ### shareMyList
 YouTube link 기반 공유 서비스  
-Spring Boot, MariaDB, Thymeleaf 기반 웹 서비스 구현 및 보안 점검
 
 ### SML Admin Page
-서비스 관리 및 시각화를 위한 admin page  
-운영 편의성과 상태 확인을 위한 Monitoring Dashboard 성격의 프로젝트
+SML 서비스의 관리를 위한 admin page
+시각화 차트가 포함된 Monitoring Dashboard 지원
 
 ### LFG
 게임 파티 모집 서비스  
-사용자 상호작용 중심의 웹 서비스 프로젝트
+사용자 상호작용 중심의 웹 서비스
 
 ---
